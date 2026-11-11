@@ -87,7 +87,6 @@ Ce quotient **décroît** avec $k$, donc les barres montent tant qu'il reste sup
 
 $$k<(n+1)p-1$$
 
-*(Il vient de $\dfrac{\binom{n}{k+1}}{\binom{n}{k}}=\dfrac{n-k}{k+1}$.)*
 (Il vient de $\dfrac{\binom{n}{k+1}}{\binom{n}{k}}=\dfrac{n-k}{k+1}$.)
 ---
 
