@@ -20,7 +20,6 @@
 | 50–55 min | 1 exercice très difficile (au choix, l'autre en travail personnel) |
 | 55–60 min | Bilan oral + travail personnel |
 
-> **Méthode professeur :** l'heure est courte. Si le temps manque, privilégier les exercices 1, 4, 7, 8 et 11 : ils couvrent les quatre idées de la fiche (allure, simulation, seuils, décision).
 
 ---
 
